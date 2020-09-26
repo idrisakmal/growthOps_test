@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+[data-reach-listbox-button] {
+  width: 100%;
+}
